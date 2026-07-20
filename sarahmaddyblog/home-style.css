@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+nav {
+    min-height:60px;
+    align-items:center;
+    display:flex;
+    justify-content:space-between;
+    background-color:rgb(251, 166, 196);
+    color:white;
+}
+
+.header {
+    font-size:2rem;
+    color:white;
+    margin-left:2rem;
+}
+
+.nav-links {
+    display:flex;
+    margin-right:2rem;
+    list-style: none;
+}
+
+.nav-link {
+    list-style:none;
+    font-size:1.1rem;
+    color:white;
+    margin:.5rem;
+    padding:.5rem;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+
+
